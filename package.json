@@ -1,0 +1,26 @@
+{
+  "name": "metafeed",
+  "version": "1.0.0",
+  "description": "metafeed は、Podcast にテキストやリンクを埋め込む仕組みです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfushimi/metafeed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfushimi/metafeed/issues"
+  },
+  "homepage": "https://github.com/rfushimi/metafeed#readme",
+  "devDependencies": {
+    "textlint": "^12.1.1",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
